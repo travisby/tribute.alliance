@@ -1,0 +1,3208 @@
+﻿STRING 3
+{
+DBZ Tribute Pre-Alpha 0.0.4
+}
+
+STRING 4
+{
+8-12
+}
+
+STRING 6
+{
+Matrixboy / TravisB
+}
+
+STRING 7
+{
+Goku
+}
+
+STRING 8
+{
+Vegeta
+}
+
+STRING 9
+{
+Gohan
+}
+
+STRING 10
+{
+Goten & Trunks
+}
+
+STRING 11
+{
+Androids
+}
+
+STRING 12
+{
+Future Trunks
+}
+
+STRING 13
+{
+Piccolo
+}
+
+STRING 14
+{
+Babidi and Buu
+}
+
+STRING 15
+{
+Bebi
+}
+
+STRING 16
+{
+Broly
+}
+
+STRING 17
+{
+Cell
+}
+
+STRING 18
+{
+Geti Star Fragment
+}
+
+STRING 19
+{
+Z Fighters
+}
+
+STRING 20
+{
+Evil Forces
+}
+
+STRING 21
+{
+DBZ Tribute Alliance
+}
+
+STRING 22
+{
+v0.0.4
+}
+
+STRING 23
+{
+This is a testing version, please disregard.
+}
+
+STRING 24
+// Units: H003 (Goten), Name (Name (unam))
+{
+Goten
+}
+
+STRING 26
+// Abilities: A000 (Kamehameha), Name (Name (anam))
+{
+Kamehameha
+}
+
+STRING 38
+// Abilities: A000 (Kamehameha), Researchhotkey (Hotkey - Learn (arhk))
+{
+E
+}
+
+STRING 39
+// Abilities: A000 (Kamehameha), Hotkey (Hotkey - Normal (ahky))
+{
+E
+}
+
+STRING 40
+// Abilities: A001 (Balanced Fighting), Name (Name (anam))
+{
+Balanced Fighting
+}
+
+STRING 44
+// Abilities: A001 (Balanced Fighting), Researchtip (Tooltip - Learn (aret))
+{
+Learn to fight in a balanced manner.
+}
+
+STRING 45
+// Abilities: A001 (Balanced Fighting), Researchubertip (Tooltip - Learn - Extended (arut))
+{
+Enemies will miss you, and you will critical strike for xtra dmg.
+}
+
+STRING 61
+// Abilities: A000 (Kamehameha), Researchtip (Tooltip - Learn (aret))
+{
+Learn to fire a powerful Kamehameha energy wave.
+}
+
+STRING 85
+// Abilities: A001 (Balanced Fighting), Tip (Tooltip - Normal (atp1))
+{
+The Style of most Z Fighters, and some Evils as well.
+}
+
+STRING 86
+// Abilities: A001 (Balanced Fighting), Tip (Tooltip - Normal (atp1))
+{
+The Style of most Z Fighters, and some Evils as well.
+}
+
+STRING 87
+// Abilities: A001 (Balanced Fighting), Tip (Tooltip - Normal (atp1))
+{
+The Style of most Z Fighters, and some Evils as well.
+}
+
+STRING 88
+// Abilities: A001 (Balanced Fighting), Tip (Tooltip - Normal (atp1))
+{
+The Style of most Z Fighters, and some Evils as well.
+}
+
+STRING 89
+// Abilities: A001 (Balanced Fighting), Tip (Tooltip - Normal (atp1))
+{
+The Style of most Z Fighters, and some Evils as well.
+}
+
+STRING 90
+// Abilities: A001 (Balanced Fighting), Tip (Tooltip - Normal (atp1))
+{
+The Style of most Z Fighters, and some Evils as well.
+}
+
+STRING 91
+// Abilities: A001 (Balanced Fighting), Tip (Tooltip - Normal (atp1))
+{
+The Style of most Z Fighters, and some Evils as well.
+}
+
+STRING 92
+// Abilities: A001 (Balanced Fighting), Tip (Tooltip - Normal (atp1))
+{
+The Style of most Z Fighters, and some Evils as well.
+}
+
+STRING 93
+// Abilities: A001 (Balanced Fighting), Tip (Tooltip - Normal (atp1))
+{
+The Style of most Z Fighters, and some Evils as well.
+}
+
+STRING 94
+// Abilities: A001 (Balanced Fighting), Tip (Tooltip - Normal (atp1))
+{
+The Style of most Z Fighters, and some Evils as well.
+}
+
+STRING 97
+// Units: N000 (Bacterian), Name (Name (unam))
+{
+Bacterian
+}
+
+STRING 101
+// Units: H003 (Goten), Propernames (Proper Names (upro))
+{
+Goku's Youngest Son
+}
+
+STRING 103
+// Units: N000 (Bacterian), Propernames (Proper Names (upro))
+{
+Reeking Humanoid
+}
+
+STRING 105
+// Destructibles: B000 (TourneyEntranceGates), Name (Name (bnam))
+{
+TourneyEntranceGates
+}
+
+STRING 106
+// Units: n001 (Red Ribbon Lackie), Name (Name (unam))
+{
+Red Ribbon Lackie
+}
+
+STRING 107
+// Units: U001 (Cell), Name (Name (unam))
+{
+Cell
+}
+
+STRING 109
+// Abilities: A004 (Masenko), Tip (Tooltip - Normal (atp1))
+{
+Goku learned this ability after seeing it done only once. Hotkey: E
+}
+
+STRING 110
+// Abilities: A004 (Masenko), Tip (Tooltip - Normal (atp1))
+{
+Goku learned this ability after seeing it done only once. Hotkey: E
+}
+
+STRING 111
+// Abilities: A004 (Masenko), Tip (Tooltip - Normal (atp1))
+{
+Goku learned this ability after seeing it done only once. Hotkey: E
+}
+
+STRING 112
+// Abilities: A006 (Energy Blast), Tip (Tooltip - Normal (atp1))
+{
+Goku learned this ability after seeing it done only once. Hotkey: E
+}
+
+STRING 113
+// Abilities: A006 (Energy Blast), Tip (Tooltip - Normal (atp1))
+{
+Goku learned this ability after seeing it done only once. Hotkey: E
+}
+
+STRING 114
+// Abilities: A006 (Energy Blast), Tip (Tooltip - Normal (atp1))
+{
+Goku learned this ability after seeing it done only once. Hotkey: E
+}
+
+STRING 115
+// Abilities: A006 (Energy Blast), Tip (Tooltip - Normal (atp1))
+{
+Goku learned this ability after seeing it done only once. Hotkey: E
+}
+
+STRING 116
+// Abilities: A006 (Energy Blast), Tip (Tooltip - Normal (atp1))
+{
+Goku learned this ability after seeing it done only once. Hotkey: E
+}
+
+STRING 117
+// Abilities: A007 (Big Bang Attack), Tip (Tooltip - Normal (atp1))
+{
+Goku learned this ability after seeing it done only once. Hotkey: E
+}
+
+STRING 118
+// Abilities: A007 (Big Bang Attack), Tip (Tooltip - Normal (atp1))
+{
+Goku learned this ability after seeing it done only once. Hotkey: E
+}
+
+STRING 119
+// Abilities: A002 (Combat of Recklessness), Name (Name (anam))
+{
+Combat of Recklessness
+}
+
+STRING 120
+// Abilities: A002 (Combat of Recklessness), Researchtip (Tooltip - Learn (aret))
+{
+Learn to hit HARD at the cost of defensive prowess.
+}
+
+STRING 121
+// Abilities: A002 (Combat of Recklessness), Researchubertip (Tooltip - Learn - Extended (arut))
+{
+You will crit more often and harder than a Balanced Fighter, but dodge less.
+}
+
+STRING 122
+// Abilities: A002 (Combat of Recklessness), Tip (Tooltip - Normal (atp1))
+{
+Broly and Future Trunks, amoung others, favor this way of fighting.
+}
+
+STRING 123
+// Abilities: A002 (Combat of Recklessness), Tip (Tooltip - Normal (atp1))
+{
+Broly and Future Trunks, amoung others, favor this way of fighting.
+}
+
+STRING 124
+// Abilities: A002 (Combat of Recklessness), Tip (Tooltip - Normal (atp1))
+{
+Broly and Future Trunks, amoung others, favor this way of fighting.
+}
+
+STRING 125
+// Abilities: A002 (Combat of Recklessness), Tip (Tooltip - Normal (atp1))
+{
+Broly and Future Trunks, amoung others, favor this way of fighting.
+}
+
+STRING 126
+// Abilities: A002 (Combat of Recklessness), Tip (Tooltip - Normal (atp1))
+{
+Broly and Future Trunks, amoung others, favor this way of fighting.
+}
+
+STRING 127
+// Abilities: A002 (Combat of Recklessness), Tip (Tooltip - Normal (atp1))
+{
+Broly and Future Trunks, amoung others, favor this way of fighting.
+}
+
+STRING 128
+// Abilities: A002 (Combat of Recklessness), Tip (Tooltip - Normal (atp1))
+{
+Broly and Future Trunks, amoung others, favor this way of fighting.
+}
+
+STRING 129
+// Abilities: A002 (Combat of Recklessness), Tip (Tooltip - Normal (atp1))
+{
+Broly and Future Trunks, amoung others, favor this way of fighting.
+}
+
+STRING 130
+// Abilities: A002 (Combat of Recklessness), Tip (Tooltip - Normal (atp1))
+{
+Broly and Future Trunks, amoung others, favor this way of fighting.
+}
+
+STRING 131
+// Abilities: A002 (Combat of Recklessness), Tip (Tooltip - Normal (atp1))
+{
+Broly and Future Trunks, amoung others, favor this way of fighting.
+}
+
+STRING 132
+// Abilities: A003 (Combat of Evasion), Name (Name (anam))
+{
+Combat of Evasion
+}
+
+STRING 133
+// Abilities: A003 (Combat of Evasion), Researchtip (Tooltip - Learn (aret))
+{
+Learn to last longer by dodging more blows in battle.
+}
+
+STRING 134
+// Abilities: A003 (Combat of Evasion), Researchubertip (Tooltip - Learn - Extended (arut))
+{
+You will evade more often than any other fighting style, but at the cost of Crit chance and dmg.
+}
+
+STRING 145
+// Abilities: A000 (Kamehameha), Researchubertip (Tooltip - Learn - Extended (arut))
+{
+Deals damage in a moderate cone.
+}
+
+STRING 147
+// Abilities: A007 (Big Bang Attack), Tip (Tooltip - Normal (atp1))
+{
+Goku learned this ability after seeing it done only once. Hotkey: E
+}
+
+STRING 151
+// Abilities: A005 (Special Beam Cannon), Researchhotkey (Hotkey - Learn (arhk))
+{
+E
+}
+
+STRING 152
+// Abilities: A005 (Special Beam Cannon), Hotkey (Hotkey - Normal (ahky))
+{
+E
+}
+
+STRING 166
+// Abilities: A006 (Energy Blast), Researchhotkey (Hotkey - Learn (arhk))
+{
+E
+}
+
+STRING 167
+// Abilities: A006 (Energy Blast), Hotkey (Hotkey - Normal (ahky))
+{
+E
+}
+
+STRING 175
+// Abilities: A006 (Energy Blast), Name (Name (anam))
+{
+Energy Blast
+}
+
+STRING 179
+// Abilities: A006 (Energy Blast), Researchtip (Tooltip - Learn (aret))
+{
+Learn to fire an energy blast from your palm.
+}
+
+STRING 180
+// Abilities: A006 (Energy Blast), Researchubertip (Tooltip - Learn - Extended (arut))
+{
+Deals damage in a thin line.
+}
+
+STRING 181
+// Abilities: A009 (Death Ray), Researchhotkey (Hotkey - Learn (arhk))
+{
+E
+}
+
+STRING 182
+// Abilities: A009 (Death Ray), Hotkey (Hotkey - Normal (ahky))
+{
+E
+}
+
+STRING 190
+// Abilities: A007 (Big Bang Attack), Name (Name (anam))
+{
+Big Bang Attack
+}
+
+STRING 194
+// Abilities: A007 (Big Bang Attack), Researchtip (Tooltip - Learn (aret))
+{
+Vegeta creates a miniature version of the Big Bang.
+}
+
+STRING 195
+// Abilities: A007 (Big Bang Attack), Researchubertip (Tooltip - Learn - Extended (arut))
+{
+Deals damage in a thin line.
+}
+
+STRING 196
+// Abilities: A007 (Big Bang Attack), Researchhotkey (Hotkey - Learn (arhk))
+{
+B
+}
+
+STRING 197
+// Abilities: A007 (Big Bang Attack), Hotkey (Hotkey - Normal (ahky))
+{
+B
+}
+
+STRING 205
+// Abilities: A008 (Gallic Gun), Name (Name (anam))
+{
+Gallic Gun
+}
+
+STRING 206
+// Abilities: A008 (Gallic Gun), Tip (Tooltip - Normal (atp1))
+{
+One of Vegeta's earlier moves. Hotkey: G
+}
+
+STRING 207
+// Abilities: A008 (Gallic Gun), Tip (Tooltip - Normal (atp1))
+{
+One of Vegeta's earlier moves. Hotkey: G
+}
+
+STRING 208
+// Abilities: A008 (Gallic Gun), Tip (Tooltip - Normal (atp1))
+{
+One of Vegeta's earlier moves. Hotkey: G
+}
+
+STRING 209
+// Abilities: A008 (Gallic Gun), Researchtip (Tooltip - Learn (aret))
+{
+One of Vegeta's Energy Attacks.
+}
+
+STRING 210
+// Abilities: A008 (Gallic Gun), Researchubertip (Tooltip - Learn - Extended (arut))
+{
+Deals damage in a thin cone.
+}
+
+STRING 211
+// Abilities: A008 (Gallic Gun), Researchhotkey (Hotkey - Learn (arhk))
+{
+G
+}
+
+STRING 212
+// Abilities: A008 (Gallic Gun), Hotkey (Hotkey - Normal (ahky))
+{
+G
+}
+
+STRING 220
+// Abilities: A005 (Special Beam Cannon), Name (Name (anam))
+{
+Special Beam Cannon
+}
+
+STRING 221
+// Abilities: A005 (Special Beam Cannon), Tip (Tooltip - Normal (atp1))
+{
+Piccolo's Signature Energy Attack. Hotkey: E
+}
+
+STRING 222
+// Abilities: A005 (Special Beam Cannon), Tip (Tooltip - Normal (atp1))
+{
+Piccolo's Signature Energy Attack. Hotkey: E
+}
+
+STRING 223
+// Abilities: A005 (Special Beam Cannon), Tip (Tooltip - Normal (atp1))
+{
+Piccolo's Signature Energy Attack. Hotkey: E
+}
+
+STRING 224
+// Abilities: A005 (Special Beam Cannon), Researchtip (Tooltip - Learn (aret))
+{
+Learn to charge-up energy with two fingers to your temple, then release it in a powerfull piercing attack.
+}
+
+STRING 225
+// Abilities: A005 (Special Beam Cannon), Researchubertip (Tooltip - Learn - Extended (arut))
+{
+Deals damage in an extremely thin line.
+}
+
+STRING 226
+// Abilities: A009 (Death Ray), Tip (Tooltip - Normal (atp1))
+{
+Piccolo's Signature Energy Attack. Hotkey: E
+}
+
+STRING 227
+// Abilities: A009 (Death Ray), Tip (Tooltip - Normal (atp1))
+{
+Piccolo's Signature Energy Attack. Hotkey: E
+}
+
+STRING 228
+// Abilities: A009 (Death Ray), Tip (Tooltip - Normal (atp1))
+{
+Piccolo's Signature Energy Attack. Hotkey: E
+}
+
+STRING 233
+// Abilities: A004 (Masenko), Name (Name (anam))
+{
+Masenko
+}
+
+STRING 237
+// Abilities: A004 (Masenko), Researchtip (Tooltip - Learn (aret))
+{
+Learn to charge energy with both hands over your head then fire it.
+}
+
+STRING 238
+// Abilities: A004 (Masenko), Researchubertip (Tooltip - Learn - Extended (arut))
+{
+Deals damage in a moderate cone.
+}
+
+STRING 243
+// Abilities: A009 (Death Ray), Name (Name (anam))
+{
+Death Ray
+}
+
+STRING 247
+// Abilities: A009 (Death Ray), Researchtip (Tooltip - Learn (aret))
+{
+Learn to fire a thin line of energy from the fingertip.
+}
+
+STRING 248
+// Abilities: A009 (Death Ray), Researchubertip (Tooltip - Learn - Extended (arut))
+{
+Deals damage in an extremely thin line.
+}
+
+STRING 249
+// Abilities: A00D (Babidi Wizardry), Researchhotkey (Hotkey - Learn (arhk))
+{
+E
+}
+
+STRING 250
+// Abilities: A00E (Sphere of Frost), Hotkey (Hotkey - Normal (ahky))
+{
+E
+}
+
+STRING 258
+// Abilities: A00A (Babidi Zap!), Name (Name (anam))
+{
+Babidi Zap!
+}
+
+STRING 259
+// Abilities: A00A (Babidi Zap!), Researchtip (Tooltip - Learn (aret))
+{
+Learn how to instantly fry a non-hero unit with magical energy, killing it in a single blow.
+}
+
+STRING 261
+// Abilities: A00B (Babida Magic), Name (Name (anam))
+{
+Babida Magic
+}
+
+STRING 262
+// Abilities: A00B (Babida Magic), Researchtip (Tooltip - Learn (aret))
+{
+Learn to turn an enemy into a useless critter with  your magic.
+}
+
+STRING 264
+// Abilities: A00C (Death Ball), Name (Name (anam))
+{
+Death Ball
+}
+
+STRING 265
+// Abilities: A00C (Death Ball), Researchhotkey (Hotkey - Learn (arhk))
+{
+B
+}
+
+STRING 266
+// Abilities: A00C (Death Ball), Hotkey (Hotkey - Normal (ahky))
+{
+B
+}
+
+STRING 267
+// Abilities: A00C (Death Ball), Researchtip (Tooltip - Learn (aret))
+{
+Learn to create a whirling ball of destruction to land at your point of choosing.
+}
+
+STRING 268
+// Abilities: A00C (Death Ball), Researchubertip (Tooltip - Learn - Extended (arut))
+{
+Deals damage in an area around the target, and continues to deal damage over time in the area.
+}
+
+STRING 269
+// Abilities: A00C (Death Ball), Tip (Tooltip - Normal (atp1))
+{
+Frieza used a similar ability to destroy Planet Namek.
+}
+
+STRING 270
+// Abilities: A00C (Death Ball), Tip (Tooltip - Normal (atp1))
+{
+Frieza used a similar ability to destroy Planet Namek.
+}
+
+STRING 271
+// Abilities: A00C (Death Ball), Tip (Tooltip - Normal (atp1))
+{
+Frieza used a similar ability to destroy Planet Namek.
+}
+
+STRING 272
+// Abilities: A00C (Death Ball), Tip (Tooltip - Normal (atp1))
+{
+Frieza used a similar ability to destroy Planet Namek.
+}
+
+STRING 273
+// Abilities: A00C (Death Ball), Tip (Tooltip - Normal (atp1))
+{
+Frieza used a similar ability to destroy Planet Namek.
+}
+
+STRING 274
+// Abilities: A00D (Babidi Wizardry), Name (Name (anam))
+{
+Babidi Wizardry
+}
+
+STRING 277
+// Abilities: A00B (Babida Magic), Hotkey (Hotkey - Normal (ahky))
+{
+G
+}
+
+STRING 278
+// Abilities: A00B (Babida Magic), Researchhotkey (Hotkey - Learn (arhk))
+{
+G
+}
+
+STRING 280
+// Abilities: A00D (Babidi Wizardry), Researchtip (Tooltip - Learn (aret))
+{
+Learn to use your magic to heal yourself or your allies.
+}
+
+STRING 281
+// Abilities: A00D (Babidi Wizardry), Researchubertip (Tooltip - Learn - Extended (arut))
+{
+A little health goes a long, long way!
+}
+
+STRING 283
+// Abilities: A00E (Sphere of Frost), Researchhotkey (Hotkey - Learn (arhk))
+{
+E
+}
+
+STRING 284
+// Abilities: A00G (Bebi Spawn Minion), Hotkey (Hotkey - Normal (ahky))
+{
+E
+}
+
+STRING 288
+// Abilities: A00E (Sphere of Frost), Researchtip (Tooltip - Learn (aret))
+{
+Broly's time Frozen in ice has taught him how to wield its damaging capacity.
+}
+
+STRING 289
+// Abilities: A00E (Sphere of Frost), Researchubertip (Tooltip - Learn - Extended (arut))
+{
+Deals damage in wide area around your target.
+}
+
+STRING 296
+// Abilities: A00F (Bebi Body Snatch), Name (Name (anam))
+{
+Bebi Body Snatch
+}
+
+STRING 297
+// Abilities: A00F (Bebi Body Snatch), Researchhotkey (Hotkey - Learn (arhk))
+{
+B
+}
+
+STRING 298
+// Abilities: A00F (Bebi Body Snatch), Hotkey (Hotkey - Normal (ahky))
+{
+B
+}
+
+STRING 299
+// Abilities: A00F (Bebi Body Snatch), Researchtip (Tooltip - Learn (aret))
+{
+Learn to take over a Z fighter's body!
+}
+
+STRING 301
+// Abilities: A00F (Bebi Body Snatch), Tip (Tooltip - Normal (atp1))
+{
+Bebi can take over the mind and body of an opponent if they are wounded.
+}
+
+STRING 302
+// Abilities: A00G (Bebi Spawn Minion), Name (Name (anam))
+{
+Bebi Spawn Minion
+}
+
+STRING 305
+// Abilities: A00G (Bebi Spawn Minion), Tip (Tooltip - Normal (atp1))
+{
+Bebi's technological abilities are quite impressive.
+}
+
+STRING 308
+// Abilities: A003 (Combat of Evasion), Tip (Tooltip - Normal (atp1))
+{
+The style of Goten and Kid Trunks, amoung others.
+}
+
+STRING 309
+// Abilities: A003 (Combat of Evasion), Tip (Tooltip - Normal (atp1))
+{
+The style of Goten and Kid Trunks, amoung others.
+}
+
+STRING 310
+// Abilities: A003 (Combat of Evasion), Tip (Tooltip - Normal (atp1))
+{
+The style of Goten and Kid Trunks, amoung others.
+}
+
+STRING 311
+// Abilities: A003 (Combat of Evasion), Tip (Tooltip - Normal (atp1))
+{
+The style of Goten and Kid Trunks, amoung others.
+}
+
+STRING 312
+// Abilities: A003 (Combat of Evasion), Tip (Tooltip - Normal (atp1))
+{
+The style of Goten and Kid Trunks, amoung others.
+}
+
+STRING 313
+// Abilities: A003 (Combat of Evasion), Tip (Tooltip - Normal (atp1))
+{
+The style of Goten and Kid Trunks, amoung others.
+}
+
+STRING 314
+// Abilities: A003 (Combat of Evasion), Tip (Tooltip - Normal (atp1))
+{
+The style of Goten and Kid Trunks, amoung others.
+}
+
+STRING 315
+// Abilities: A003 (Combat of Evasion), Tip (Tooltip - Normal (atp1))
+{
+The style of Goten and Kid Trunks, amoung others.
+}
+
+STRING 316
+// Abilities: A003 (Combat of Evasion), Tip (Tooltip - Normal (atp1))
+{
+The style of Goten and Kid Trunks, amoung others.
+}
+
+STRING 317
+// Abilities: A003 (Combat of Evasion), Tip (Tooltip - Normal (atp1))
+{
+The style of Goten and Kid Trunks, amoung others.
+}
+
+STRING 318
+// Abilities: A00E (Sphere of Frost), Name (Name (anam))
+{
+Sphere of Frost
+}
+
+STRING 327
+// Abilities: A00G (Bebi Spawn Minion), Researchtip (Tooltip - Learn (aret))
+{
+Learn how to reanimate 4 slain enemies to fight for you by implanting devices.
+}
+
+STRING 328
+// Abilities: A00G (Bebi Spawn Minion), Researchubertip (Tooltip - Learn - Extended (arut))
+{
+Reanimates 4 nearby non-hero corpses to fight for you for 40 sec.
+}
+
+STRING 329
+// Abilities: A00H (Final Flash), Name (Name (anam))
+{
+Final Flash
+}
+
+STRING 334
+// Abilities: A00H (Final Flash), Researchubertip (Tooltip - Learn - Extended (arut))
+{
+Deals damage in a moderate cone.
+}
+
+STRING 350
+// Abilities: A00I (Scattershot), Name (Name (anam))
+{
+Scattershot
+}
+
+STRING 351
+// Abilities: A00I (Scattershot), Researchhotkey (Hotkey - Learn (arhk))
+{
+B
+}
+
+STRING 352
+// Abilities: A00I (Scattershot), Hotkey (Hotkey - Normal (ahky))
+{
+B
+}
+
+STRING 354
+// Abilities: A00I (Scattershot), Researchubertip (Tooltip - Learn - Extended (arut))
+{
+Each time one inflicts damage, it will convert it into health for the caster.
+}
+
+STRING 360
+// Abilities: A00J (Geti Star Influence), Name (Name (anam))
+{
+Geti Star Influence
+}
+
+STRING 361
+// Abilities: A00J (Geti Star Influence), Researchtip (Tooltip - Learn (aret))
+{
+Strengthen yourself with a greater influence of the Geti Star.
+}
+
+STRING 362
+// Abilities: A00J (Geti Star Influence), Researchubertip (Tooltip - Learn - Extended (arut))
+{
+Increases your armor and that of nearby friendly units.
+}
+
+STRING 373
+// Abilities: A00K (Saiyan Determination), Name (Name (anam))
+{
+Saiyan Determination
+}
+
+STRING 374
+// Abilities: A00K (Saiyan Determination), Researchtip (Tooltip - Learn (aret))
+{
+Learn how to gain a second wind in battle when all hope seems lost.
+}
+
+STRING 375
+// Abilities: A00K (Saiyan Determination), Researchubertip (Tooltip - Learn - Extended (arut))
+{
+If you die, you will be resurrected with full hp and mana.
+}
+
+STRING 376
+// Abilities: A00K (Saiyan Determination), Tip (Tooltip - Normal (atp1))
+{
+Some Saiyans just don't know when to quit....
+}
+
+STRING 377
+// Abilities: A00L (Broly's Rage), Name (Name (anam))
+{
+Broly's Rage
+}
+
+STRING 378
+// Abilities: A004 (Masenko), Researchhotkey (Hotkey - Learn (arhk))
+{
+F
+}
+
+STRING 379
+// Abilities: A004 (Masenko), Hotkey (Hotkey - Normal (ahky))
+{
+F
+}
+
+STRING 380
+// Abilities: A00L (Broly's Rage), Researchtip (Tooltip - Learn (aret))
+{
+Learn how to let your energy level rise VERY sharply.
+}
+
+STRING 381
+// Abilities: A00L (Broly's Rage), Researchubertip (Tooltip - Learn - Extended (arut))
+{
+Your energy level rises SO high for a single second, you are utterly immune to energy attacks and all nearby will take damage.
+}
+
+STRING 389
+// Units: n002 (Red Ribbon Mutant), Name (Name (unam))
+{
+Red Ribbon Mutant
+}
+
+STRING 390
+// Units: n003 (Red Ribbon Battle Droid), Name (Name (unam))
+{
+Red Ribbon Battle Droid
+}
+
+STRING 391
+// Units: H000 (Vegeta), Name (Name (unam))
+{
+Vegeta
+}
+
+STRING 392
+// Units: H000 (Vegeta), Propernames (Proper Names (upro))
+{
+Prince of all Saiyans
+}
+
+STRING 393
+// Units: H001 (Goku), Name (Name (unam))
+{
+Goku
+}
+
+STRING 394
+// Units: H001 (Goku), Propernames (Proper Names (upro))
+{
+Saiyan Defender of the Earth
+}
+
+STRING 395
+// Units: H002 (Kid Trunks), Name (Name (unam))
+{
+Kid Trunks
+}
+
+STRING 396
+// Units: H002 (Kid Trunks), Propernames (Proper Names (upro))
+{
+Son of Vegeta
+}
+
+STRING 397
+// Units: H006 (Gohan), Name (Name (unam))
+{
+Gohan
+}
+
+STRING 399
+// Units: H004 (Piccolo), Name (Name (unam))
+{
+Piccolo
+}
+
+STRING 401
+// Units: H005 (Future Trunks), Name (Name (unam))
+{
+Future Trunks
+}
+
+STRING 402
+// Units: H005 (Future Trunks), Propernames (Proper Names (upro))
+{
+Saiyan from an Alternate Future
+}
+
+STRING 403
+// Units: U001 (Cell), Propernames (Proper Names (upro))
+{
+Stage 1 Cell: Unformed
+}
+
+STRING 406
+// Units: U002 (Metal Kooler), Name (Name (unam))
+{
+Metal Kooler
+}
+
+STRING 407
+// Units: U002 (Metal Kooler), Propernames (Proper Names (upro))
+{
+Geti Star Fragment
+}
+
+STRING 408
+// Units: U003 (Bebi), Name (Name (unam))
+{
+Bebi
+}
+
+STRING 412
+// Units: U003 (Bebi), Propernames (Proper Names (upro))
+{
+The last of the Tuffles
+}
+
+STRING 413
+// Units: U004 (Babidi), Name (Name (unam))
+{
+Babidi
+}
+
+STRING 414
+// Units: U004 (Babidi), Propernames (Proper Names (upro))
+{
+Evil Wizard
+}
+
+STRING 415
+// Units: U000 (Broly), Name (Name (unam))
+{
+Broly
+}
+
+STRING 416
+// Units: U000 (Broly), Propernames (Proper Names (upro))
+{
+Legendary Super Saiyan
+}
+
+STRING 417
+// Units: U006 (Android 13), Name (Name (unam))
+{
+Android 13
+}
+
+STRING 418
+// Units: U005 (Android 15), Propernames (Proper Names (upro))
+{
+Creation of Doctor Gero
+}
+
+STRING 419
+// Units: U005 (Android 15), Name (Name (unam))
+{
+Android 15
+}
+
+STRING 420
+// Units: U006 (Android 13), Propernames (Proper Names (upro))
+{
+Creation of Doctor Gero
+}
+
+STRING 421
+// Units: U007 (Android 14), Name (Name (unam))
+{
+Android 14
+}
+
+STRING 422
+// Units: U007 (Android 14), Propernames (Proper Names (upro))
+{
+Creation of Doctor Gero
+}
+
+STRING 423
+// Abilities: A00M (Energy Distortion Field), Name (Name (anam))
+{
+Energy Distortion Field
+}
+
+STRING 424
+// Abilities: A00M (Energy Distortion Field), Researchtip (Tooltip - Learn (aret))
+{
+Learn how to create a barrier of energy.
+}
+
+STRING 425
+// Abilities: A00M (Energy Distortion Field), Researchubertip (Tooltip - Learn - Extended (arut))
+{
+Creates a shield of energy that uses mana to absorb damage taken.
+}
+
+STRING 426
+// Abilities: A00M (Energy Distortion Field), Tip (Tooltip - Normal (atp1))
+{
+Activate Energy Distortion Field.
+}
+
+STRING 427
+// Abilities: A00M (Energy Distortion Field), Tip (Tooltip - Normal (atp1))
+{
+Activate Energy Distortion Field.
+}
+
+STRING 428
+// Abilities: A00M (Energy Distortion Field), Tip (Tooltip - Normal (atp1))
+{
+Activate Energy Distortion Field.
+}
+
+STRING 429
+// Abilities: A00M (Energy Distortion Field), Tip (Tooltip - Normal (atp1))
+{
+Activate Energy Distortion Field.
+}
+
+STRING 430
+// Abilities: A00M (Energy Distortion Field), Tip (Tooltip - Normal (atp1))
+{
+Activate Energy Distortion Field.
+}
+
+STRING 431
+// Abilities: A00M (Energy Distortion Field), Untip (Tooltip - Turn Off (aut1))
+{
+Deactivate Energy Distortion Field.
+}
+
+STRING 432
+// Abilities: A00M (Energy Distortion Field), Untip (Tooltip - Turn Off (aut1))
+{
+Deactivate Energy Distortion Field.
+}
+
+STRING 433
+// Abilities: A00M (Energy Distortion Field), Untip (Tooltip - Turn Off (aut1))
+{
+Deactivate Energy Distortion Field.
+}
+
+STRING 434
+// Abilities: A00M (Energy Distortion Field), Untip (Tooltip - Turn Off (aut1))
+{
+Deactivate Energy Distortion Field.
+}
+
+STRING 435
+// Abilities: A00M (Energy Distortion Field), Untip (Tooltip - Turn Off (aut1))
+{
+Deactivate Energy Distortion Field.
+}
+
+STRING 439
+// Abilities: A00H (Final Flash), Researchtip (Tooltip - Learn (aret))
+{
+Learn to unlease a massive energy attack to decimate all those who dare stand in the path of the Prince of all Saiyans!
+}
+
+STRING 447
+// Abilities: A00H (Final Flash), Researchhotkey (Hotkey - Learn (arhk))
+{
+F
+}
+
+STRING 448
+// Abilities: A00H (Final Flash), Hotkey (Hotkey - Normal (ahky))
+{
+F
+}
+
+STRING 462
+// Units: h007 (King Yemma's Workshop), Name (Name (unam))
+{
+King Yemma's Workshop
+}
+
+STRING 464
+// Items: I000 (Revive Ticket), Name (Name (unam))
+{
+Revive Ticket
+}
+
+STRING 465
+// Items: I000 (Revive Ticket), Ubertip (Tooltip - Extended (utub))
+{
+Returns you to the Living World.
+}
+
+STRING 466
+// Items: I000 (Revive Ticket), Tip (Tooltip - Basic (utip))
+{
+Purchase Revive Ticket.
+}
+
+STRING 467
+// Items: I000 (Revive Ticket), Description (Description (ides))
+{
+Live again!
+}
+
+STRING 468
+// Units: n008 (King Kai), Name (Name (unam))
+{
+King Kai
+}
+
+STRING 469
+// Units: n004 (Bean Seller :P), Name (Name (unam))
+{
+Bean Seller :P
+}
+
+STRING 470
+// Units: n006 (Grand Kai), Name (Name (unam))
+{
+Grand Kai
+}
+
+STRING 471
+// Units: n007 (Bulma), Name (Name (unam))
+{
+Bulma
+}
+
+STRING 472
+// Items: I001 (Senzu Bean), Name (Name (unam))
+{
+Senzu Bean
+}
+
+STRING 473
+// Items: I001 (Senzu Bean), Tip (Tooltip - Basic (utip))
+{
+Purchase Senzu Bean
+}
+
+STRING 474
+// Items: I001 (Senzu Bean), Ubertip (Tooltip - Extended (utub))
+{
+Restores a large quantity of Health and Mana over time out of combat.
+}
+
+STRING 475
+// Abilities: A00N (Bulma Revive), Name (Name (anam))
+{
+Bulma Revive
+}
+
+STRING 476
+// Units: n005 (Kami), Name (Name (unam))
+{
+Kami
+}
+
+STRING 477
+// Units: n009 (Nail), Name (Name (unam))
+{
+Nail
+}
+
+STRING 478
+// Units: n00A (Capsule Corp), Name (Name (unam))
+{
+Capsule Corp
+}
+
+STRING 479
+// Units: h009 (Hyperbolic Time Chamber), Name (Name (unam))
+{
+Hyperbolic Time Chamber
+}
+
+STRING 480
+// Units: h00A (Lookout Base), Name (Name (unam))
+{
+Lookout Base
+}
+
+STRING 481
+// Items: I002 (DB Radar), Name (Name (unam))
+{
+DB Radar
+}
+
+STRING 482
+// Items: I002 (DB Radar), Tip (Tooltip - Basic (utip))
+{
+Nab a Dragonball Radar to help find 'em!
+}
+
+STRING 483
+// Items: I002 (DB Radar), Ubertip (Tooltip - Extended (utub))
+{
+Pings the location of any Dragonballs currently on the map.
+}
+
+STRING 484
+// Items: I002 (DB Radar), Description (Description (ides))
+{
+Get those Dragonballs!
+}
+
+STRING 485
+// Abilities: A00O (Senzu Bean Effect), Name (Name (anam))
+{
+Senzu Bean Effect
+}
+
+STRING 492
+// Units: N00B (Annin), Name (Name (unam))
+{
+Annin
+}
+
+STRING 493
+// Units: N00B (Annin), Propernames (Proper Names (upro))
+{
+King Yemma's Assistant
+}
+
+STRING 498
+// Units: u008 (Android Supercomputer), Name (Name (unam))
+{
+Android Supercomputer
+}
+
+STRING 499
+// Units: u008 (Android Supercomputer), Tip (Tooltip - Basic (utip))
+{
+Revives any of your three Androids that should die, given time. Is destroyed once you fuse into Super 13.
+}
+
+STRING 500
+// Units: u009 (The Geti Star), Name (Name (unam))
+{
+The Geti Star
+}
+
+STRING 501
+// Units: u009 (The Geti Star), Ubertip (Tooltip - Extended (utub))
+{
+Stores Z fighter Data.
+}
+
+STRING 502
+// Units: u009 (The Geti Star), Tip (Tooltip - Basic (utip))
+{
+Metal Kooler will instantly revive here, should he die.
+}
+
+STRING 503
+// Units: n00C (Buu's Containment Unit), Name (Name (unam))
+{
+Buu's Containment Unit
+}
+
+STRING 519
+// Abilities: A000 (Kamehameha), Tip (Tooltip - Normal (atp1))
+{
+Goku learned this ability after seeing it done only once.
+}
+
+STRING 520
+// Abilities: A000 (Kamehameha), Tip (Tooltip - Normal (atp1))
+{
+Goku learned this ability after seeing it done only once.
+}
+
+STRING 521
+// Abilities: A000 (Kamehameha), Tip (Tooltip - Normal (atp1))
+{
+Goku learned this ability after seeing it done only once.
+}
+
+STRING 522
+// Abilities: A000 (Kamehameha), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: E
+}
+
+STRING 523
+// Abilities: A000 (Kamehameha), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: E
+}
+
+STRING 524
+// Abilities: A000 (Kamehameha), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: E
+}
+
+STRING 525
+// Abilities: A000 (Kamehameha), Tip (Tooltip - Normal (atp1))
+{
+Goku learned this ability after seeing it done only once.
+}
+
+STRING 526
+// Abilities: A000 (Kamehameha), Tip (Tooltip - Normal (atp1))
+{
+Goku learned this ability after seeing it done only once.
+}
+
+STRING 527
+// Abilities: A000 (Kamehameha), Tip (Tooltip - Normal (atp1))
+{
+Goku learned this ability after seeing it done only once.
+}
+
+STRING 528
+// Abilities: A000 (Kamehameha), Tip (Tooltip - Normal (atp1))
+{
+Goku learned this ability after seeing it done only once.
+}
+
+STRING 529
+// Abilities: A000 (Kamehameha), Tip (Tooltip - Normal (atp1))
+{
+Goku learned this ability after seeing it done only once.
+}
+
+STRING 530
+// Abilities: A000 (Kamehameha), Tip (Tooltip - Normal (atp1))
+{
+Goku learned this ability after seeing it done only once.
+}
+
+STRING 531
+// Abilities: A000 (Kamehameha), Tip (Tooltip - Normal (atp1))
+{
+Goku learned this ability after seeing it done only once.
+}
+
+STRING 532
+// Abilities: A000 (Kamehameha), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: E
+}
+
+STRING 533
+// Abilities: A000 (Kamehameha), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: E
+}
+
+STRING 534
+// Abilities: A000 (Kamehameha), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: E
+}
+
+STRING 535
+// Abilities: A000 (Kamehameha), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: E
+}
+
+STRING 536
+// Abilities: A000 (Kamehameha), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: E
+}
+
+STRING 537
+// Abilities: A000 (Kamehameha), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: E
+}
+
+STRING 538
+// Abilities: A000 (Kamehameha), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: E
+}
+
+STRING 539
+// Abilities: A004 (Masenko), Tip (Tooltip - Normal (atp1))
+{
+One of Gohans earlier Energy Attacks.
+}
+
+STRING 540
+// Abilities: A004 (Masenko), Tip (Tooltip - Normal (atp1))
+{
+One of Gohans earlier Energy Attacks.
+}
+
+STRING 541
+// Abilities: A004 (Masenko), Tip (Tooltip - Normal (atp1))
+{
+One of Gohans earlier Energy Attacks.
+}
+
+STRING 542
+// Abilities: A004 (Masenko), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: F
+}
+
+STRING 543
+// Abilities: A004 (Masenko), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: F
+}
+
+STRING 544
+// Abilities: A004 (Masenko), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: F
+}
+
+STRING 545
+// Abilities: A004 (Masenko), Tip (Tooltip - Normal (atp1))
+{
+One of Gohans earlier Energy Attacks.
+}
+
+STRING 546
+// Abilities: A004 (Masenko), Tip (Tooltip - Normal (atp1))
+{
+One of Gohans earlier Energy Attacks.
+}
+
+STRING 547
+// Abilities: A004 (Masenko), Tip (Tooltip - Normal (atp1))
+{
+One of Gohans earlier Energy Attacks.
+}
+
+STRING 548
+// Abilities: A004 (Masenko), Tip (Tooltip - Normal (atp1))
+{
+One of Gohans earlier Energy Attacks.
+}
+
+STRING 549
+// Abilities: A004 (Masenko), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: F
+}
+
+STRING 550
+// Abilities: A004 (Masenko), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: F
+}
+
+STRING 551
+// Abilities: A004 (Masenko), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: F
+}
+
+STRING 552
+// Abilities: A004 (Masenko), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: F
+}
+
+STRING 553
+// Abilities: A005 (Special Beam Cannon), Tip (Tooltip - Normal (atp1))
+{
+Piccolo's Signature Energy Attack.
+}
+
+STRING 554
+// Abilities: A005 (Special Beam Cannon), Tip (Tooltip - Normal (atp1))
+{
+Piccolo's Signature Energy Attack.
+}
+
+STRING 555
+// Abilities: A005 (Special Beam Cannon), Tip (Tooltip - Normal (atp1))
+{
+Piccolo's Signature Energy Attack.
+}
+
+STRING 556
+// Abilities: A005 (Special Beam Cannon), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: E
+}
+
+STRING 557
+// Abilities: A005 (Special Beam Cannon), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: E
+}
+
+STRING 558
+// Abilities: A005 (Special Beam Cannon), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: E
+}
+
+STRING 559
+// Abilities: A005 (Special Beam Cannon), Tip (Tooltip - Normal (atp1))
+{
+Piccolo's Signature Energy Attack.
+}
+
+STRING 560
+// Abilities: A005 (Special Beam Cannon), Tip (Tooltip - Normal (atp1))
+{
+Piccolo's Signature Energy Attack.
+}
+
+STRING 561
+// Abilities: A005 (Special Beam Cannon), Tip (Tooltip - Normal (atp1))
+{
+Piccolo's Signature Energy Attack.
+}
+
+STRING 562
+// Abilities: A005 (Special Beam Cannon), Tip (Tooltip - Normal (atp1))
+{
+Piccolo's Signature Energy Attack.
+}
+
+STRING 563
+// Abilities: A005 (Special Beam Cannon), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: E
+}
+
+STRING 564
+// Abilities: A005 (Special Beam Cannon), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: E
+}
+
+STRING 565
+// Abilities: A005 (Special Beam Cannon), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: E
+}
+
+STRING 566
+// Abilities: A005 (Special Beam Cannon), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: E
+}
+
+STRING 567
+// Abilities: A006 (Energy Blast), Tip (Tooltip - Normal (atp1))
+{
+Many characters from DBZ use this simple, yet effective, energy blast.
+}
+
+STRING 568
+// Abilities: A006 (Energy Blast), Tip (Tooltip - Normal (atp1))
+{
+Many characters from DBZ use this simple, yet effective, energy blast.
+}
+
+STRING 569
+// Abilities: A006 (Energy Blast), Tip (Tooltip - Normal (atp1))
+{
+Many characters from DBZ use this simple, yet effective, energy blast.
+}
+
+STRING 570
+// Abilities: A006 (Energy Blast), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: E
+}
+
+STRING 571
+// Abilities: A006 (Energy Blast), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: E
+}
+
+STRING 572
+// Abilities: A006 (Energy Blast), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: E
+}
+
+STRING 573
+// Abilities: A006 (Energy Blast), Tip (Tooltip - Normal (atp1))
+{
+Many characters from DBZ use this simple, yet effective, energy blast.
+}
+
+STRING 574
+// Abilities: A006 (Energy Blast), Tip (Tooltip - Normal (atp1))
+{
+Many characters from DBZ use this simple, yet effective, energy blast.
+}
+
+STRING 575
+// Abilities: A006 (Energy Blast), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: E
+}
+
+STRING 576
+// Abilities: A006 (Energy Blast), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: E
+}
+
+STRING 577
+// Abilities: A007 (Big Bang Attack), Tip (Tooltip - Normal (atp1))
+{
+One of the first moves Vegeta learned after becoming a Super Saiyan.
+}
+
+STRING 578
+// Abilities: A007 (Big Bang Attack), Tip (Tooltip - Normal (atp1))
+{
+One of the first moves Vegeta learned after becoming a Super Saiyan.
+}
+
+STRING 579
+// Abilities: A007 (Big Bang Attack), Tip (Tooltip - Normal (atp1))
+{
+One of the first moves Vegeta learned after becoming a Super Saiyan.
+}
+
+STRING 580
+// Abilities: A007 (Big Bang Attack), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: B
+}
+
+STRING 581
+// Abilities: A007 (Big Bang Attack), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: B
+}
+
+STRING 582
+// Abilities: A007 (Big Bang Attack), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: B
+}
+
+STRING 583
+// Abilities: A007 (Big Bang Attack), Tip (Tooltip - Normal (atp1))
+{
+One of the first moves Vegeta learned after becoming a Super Saiyan.
+}
+
+STRING 584
+// Abilities: A007 (Big Bang Attack), Tip (Tooltip - Normal (atp1))
+{
+One of the first moves Vegeta learned after becoming a Super Saiyan.
+}
+
+STRING 585
+// Abilities: A007 (Big Bang Attack), Tip (Tooltip - Normal (atp1))
+{
+One of the first moves Vegeta learned after becoming a Super Saiyan.
+}
+
+STRING 586
+// Abilities: A007 (Big Bang Attack), Tip (Tooltip - Normal (atp1))
+{
+One of the first moves Vegeta learned after becoming a Super Saiyan.
+}
+
+STRING 587
+// Abilities: A007 (Big Bang Attack), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: B
+}
+
+STRING 588
+// Abilities: A007 (Big Bang Attack), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: B
+}
+
+STRING 589
+// Abilities: A007 (Big Bang Attack), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: B
+}
+
+STRING 590
+// Abilities: A007 (Big Bang Attack), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: B
+}
+
+STRING 591
+// Abilities: A008 (Gallic Gun), Tip (Tooltip - Normal (atp1))
+{
+One of Vegeta's earlier moves.
+}
+
+STRING 592
+// Abilities: A008 (Gallic Gun), Tip (Tooltip - Normal (atp1))
+{
+One of Vegeta's earlier moves.
+}
+
+STRING 593
+// Abilities: A008 (Gallic Gun), Tip (Tooltip - Normal (atp1))
+{
+One of Vegeta's earlier moves.
+}
+
+STRING 594
+// Abilities: A008 (Gallic Gun), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: G
+}
+
+STRING 595
+// Abilities: A008 (Gallic Gun), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: G
+}
+
+STRING 596
+// Abilities: A008 (Gallic Gun), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: G
+}
+
+STRING 597
+// Abilities: A008 (Gallic Gun), Tip (Tooltip - Normal (atp1))
+{
+One of Vegeta's earlier moves.
+}
+
+STRING 598
+// Abilities: A008 (Gallic Gun), Tip (Tooltip - Normal (atp1))
+{
+One of Vegeta's earlier moves.
+}
+
+STRING 599
+// Abilities: A008 (Gallic Gun), Tip (Tooltip - Normal (atp1))
+{
+One of Vegeta's earlier moves.
+}
+
+STRING 600
+// Abilities: A008 (Gallic Gun), Tip (Tooltip - Normal (atp1))
+{
+One of Vegeta's earlier moves.
+}
+
+STRING 601
+// Abilities: A008 (Gallic Gun), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: G
+}
+
+STRING 602
+// Abilities: A008 (Gallic Gun), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: G
+}
+
+STRING 603
+// Abilities: A008 (Gallic Gun), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: G
+}
+
+STRING 604
+// Abilities: A008 (Gallic Gun), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: G
+}
+
+STRING 605
+// Abilities: A009 (Death Ray), Tip (Tooltip - Normal (atp1))
+{
+This attack is favored by many Evil characters.
+}
+
+STRING 606
+// Abilities: A009 (Death Ray), Tip (Tooltip - Normal (atp1))
+{
+This attack is favored by many Evil characters.
+}
+
+STRING 607
+// Abilities: A009 (Death Ray), Tip (Tooltip - Normal (atp1))
+{
+This attack is favored by many Evil characters.
+}
+
+STRING 608
+// Abilities: A009 (Death Ray), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: E.
+}
+
+STRING 609
+// Abilities: A009 (Death Ray), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: E.
+}
+
+STRING 610
+// Abilities: A009 (Death Ray), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: E.
+}
+
+STRING 611
+// Abilities: A009 (Death Ray), Tip (Tooltip - Normal (atp1))
+{
+This attack is favored by many Evil characters.
+}
+
+STRING 612
+// Abilities: A009 (Death Ray), Tip (Tooltip - Normal (atp1))
+{
+This attack is favored by many Evil characters.
+}
+
+STRING 613
+// Abilities: A009 (Death Ray), Tip (Tooltip - Normal (atp1))
+{
+This attack is favored by many Evil characters.
+}
+
+STRING 614
+// Abilities: A009 (Death Ray), Tip (Tooltip - Normal (atp1))
+{
+This attack is favored by many Evil characters.
+}
+
+STRING 615
+// Abilities: A009 (Death Ray), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: E.
+}
+
+STRING 616
+// Abilities: A009 (Death Ray), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: E.
+}
+
+STRING 617
+// Abilities: A009 (Death Ray), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: E.
+}
+
+STRING 618
+// Abilities: A009 (Death Ray), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: E.
+}
+
+STRING 619
+// Abilities: A00A (Babidi Zap!), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: F
+}
+
+STRING 620
+// Abilities: A00A (Babidi Zap!), Tip (Tooltip - Normal (atp1))
+{
+Babidi's magic can be a fearsome sight to behold!
+}
+
+STRING 621
+// Abilities: A00B (Babida Magic), Tip (Tooltip - Normal (atp1))
+{
+Get that varmit!
+}
+
+STRING 622
+// Abilities: A00B (Babida Magic), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: G
+}
+
+STRING 623
+// Abilities: A00B (Babida Magic), Tip (Tooltip - Normal (atp1))
+{
+Get that varmit!
+}
+
+STRING 624
+// Abilities: A00B (Babida Magic), Tip (Tooltip - Normal (atp1))
+{
+Get that varmit!
+}
+
+STRING 625
+// Abilities: A00B (Babida Magic), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: G
+}
+
+STRING 626
+// Abilities: A00B (Babida Magic), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: G
+}
+
+STRING 627
+// Abilities: A00C (Death Ball), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: B
+}
+
+STRING 628
+// Abilities: A00C (Death Ball), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: B
+}
+
+STRING 629
+// Abilities: A00C (Death Ball), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: B
+}
+
+STRING 630
+// Abilities: A00C (Death Ball), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: B
+}
+
+STRING 631
+// Abilities: A00C (Death Ball), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: B
+}
+
+STRING 632
+// Abilities: A00E (Sphere of Frost), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: E
+}
+
+STRING 633
+// Abilities: A00E (Sphere of Frost), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: E
+}
+
+STRING 634
+// Abilities: A00E (Sphere of Frost), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: E
+}
+
+STRING 635
+// Abilities: A00E (Sphere of Frost), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: E
+}
+
+STRING 636
+// Abilities: A00E (Sphere of Frost), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: E
+}
+
+STRING 637
+// Abilities: A00E (Sphere of Frost), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: E
+}
+
+STRING 638
+// Abilities: A00E (Sphere of Frost), Tip (Tooltip - Normal (atp1))
+{
+Broly's big Energy Attack.
+}
+
+STRING 639
+// Abilities: A00E (Sphere of Frost), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: E
+}
+
+STRING 640
+// Abilities: A00E (Sphere of Frost), Tip (Tooltip - Normal (atp1))
+{
+Broly's big Energy Attack.
+}
+
+STRING 641
+// Abilities: A00E (Sphere of Frost), Tip (Tooltip - Normal (atp1))
+{
+Broly's big Energy Attack.
+}
+
+STRING 642
+// Abilities: A00E (Sphere of Frost), Tip (Tooltip - Normal (atp1))
+{
+Broly's big Energy Attack.
+}
+
+STRING 643
+// Abilities: A00E (Sphere of Frost), Tip (Tooltip - Normal (atp1))
+{
+Broly's big Energy Attack.
+}
+
+STRING 644
+// Abilities: A00E (Sphere of Frost), Tip (Tooltip - Normal (atp1))
+{
+Broly's big Energy Attack.
+}
+
+STRING 645
+// Abilities: A00E (Sphere of Frost), Tip (Tooltip - Normal (atp1))
+{
+Broly's big Energy Attack.
+}
+
+STRING 646
+// Abilities: A00G (Bebi Spawn Minion), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: E
+}
+
+STRING 652
+// Abilities: A00F (Bebi Body Snatch), Researchubertip (Tooltip - Learn - Extended (arut))
+{
+Only works on Z's with < 20% or < 1k hp.
+}
+
+STRING 653
+// Abilities: A00F (Bebi Body Snatch), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: B
+}
+
+STRING 655
+// Abilities: A00H (Final Flash), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: F
+}
+
+STRING 656
+// Abilities: A00H (Final Flash), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: F
+}
+
+STRING 657
+// Abilities: A00H (Final Flash), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: F
+}
+
+STRING 658
+// Abilities: A00H (Final Flash), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: F
+}
+
+STRING 659
+// Abilities: A00H (Final Flash), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: F
+}
+
+STRING 660
+// Abilities: A00H (Final Flash), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: F
+}
+
+STRING 661
+// Abilities: A00H (Final Flash), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: F
+}
+
+STRING 662
+// Abilities: A00H (Final Flash), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: F
+}
+
+STRING 663
+// Abilities: A00H (Final Flash), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: F
+}
+
+STRING 664
+// Abilities: A00H (Final Flash), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: F
+}
+
+STRING 665
+// Abilities: A00I (Scattershot), Tip (Tooltip - Normal (atp1))
+{
+Gohan often uses this against a single tough opponent, as the health restoration aids him.
+}
+
+STRING 666
+// Abilities: A00I (Scattershot), Tip (Tooltip - Normal (atp1))
+{
+Gohan often uses this against a single tough opponent, as the health restoration aids him.
+}
+
+STRING 667
+// Abilities: A00I (Scattershot), Tip (Tooltip - Normal (atp1))
+{
+Gohan often uses this against a single tough opponent, as the health restoration aids him.
+}
+
+STRING 668
+// Abilities: A00I (Scattershot), Tip (Tooltip - Normal (atp1))
+{
+Gohan often uses this against a single tough opponent, as the health restoration aids him.
+}
+
+STRING 669
+// Abilities: A00I (Scattershot), Tip (Tooltip - Normal (atp1))
+{
+Gohan often uses this against a single tough opponent, as the health restoration aids him.
+}
+
+STRING 670
+// Abilities: A00I (Scattershot), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: B
+}
+
+STRING 671
+// Abilities: A00I (Scattershot), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: B
+}
+
+STRING 672
+// Abilities: A00I (Scattershot), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: B
+}
+
+STRING 673
+// Abilities: A00I (Scattershot), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: B
+}
+
+STRING 674
+// Abilities: A00I (Scattershot), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: B
+}
+
+STRING 675
+// Abilities: A00J (Geti Star Influence), Tip (Tooltip - Normal (atp1))
+{
+Metal Kooler delves deeper into the influence of the Geti Star.
+}
+
+STRING 676
+// Abilities: A00J (Geti Star Influence), Tip (Tooltip - Normal (atp1))
+{
+Metal Kooler delves deeper into the influence of the Geti Star.
+}
+
+STRING 677
+// Abilities: A00J (Geti Star Influence), Tip (Tooltip - Normal (atp1))
+{
+Metal Kooler delves deeper into the influence of the Geti Star.
+}
+
+STRING 678
+// Abilities: A00J (Geti Star Influence), Tip (Tooltip - Normal (atp1))
+{
+Metal Kooler delves deeper into the influence of the Geti Star.
+}
+
+STRING 679
+// Abilities: A00J (Geti Star Influence), Tip (Tooltip - Normal (atp1))
+{
+Metal Kooler delves deeper into the influence of the Geti Star.
+}
+
+STRING 680
+// Abilities: A00J (Geti Star Influence), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Increases armor of Metal Kooler and nearby friendly units.
+}
+
+STRING 681
+// Abilities: A00J (Geti Star Influence), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Increases armor of Metal Kooler and nearby friendly units.
+}
+
+STRING 682
+// Abilities: A00J (Geti Star Influence), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Increases armor of Metal Kooler and nearby friendly units.
+}
+
+STRING 683
+// Abilities: A00J (Geti Star Influence), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Increases armor of Metal Kooler and nearby friendly units.
+}
+
+STRING 684
+// Abilities: A00J (Geti Star Influence), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Increases armor of Metal Kooler and nearby friendly units.
+}
+
+STRING 685
+// Abilities: A00L (Broly's Rage), Researchhotkey (Hotkey - Learn (arhk))
+{
+F
+}
+
+STRING 686
+// Abilities: A00L (Broly's Rage), Hotkey (Hotkey - Normal (ahky))
+{
+F
+}
+
+STRING 687
+// Abilities: A00L (Broly's Rage), Tip (Tooltip - Normal (atp1))
+{
+Broly's hatred gives him strength.
+}
+
+STRING 688
+// Abilities: A00L (Broly's Rage), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: F
+}
+
+STRING 689
+// Abilities: A00L (Broly's Rage), Tip (Tooltip - Normal (atp1))
+{
+Broly's hatred gives him strength.
+}
+
+STRING 690
+// Abilities: A00L (Broly's Rage), Tip (Tooltip - Normal (atp1))
+{
+Broly's hatred gives him strength.
+}
+
+STRING 691
+// Abilities: A00L (Broly's Rage), Tip (Tooltip - Normal (atp1))
+{
+Broly's hatred gives him strength.
+}
+
+STRING 692
+// Abilities: A00L (Broly's Rage), Tip (Tooltip - Normal (atp1))
+{
+Broly's hatred gives him strength.
+}
+
+STRING 693
+// Abilities: A00L (Broly's Rage), Tip (Tooltip - Normal (atp1))
+{
+Broly's hatred gives him strength.
+}
+
+STRING 694
+// Abilities: A00L (Broly's Rage), Tip (Tooltip - Normal (atp1))
+{
+Broly's hatred gives him strength.
+}
+
+STRING 695
+// Abilities: A00L (Broly's Rage), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: F
+}
+
+STRING 696
+// Abilities: A00L (Broly's Rage), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: F
+}
+
+STRING 697
+// Abilities: A00L (Broly's Rage), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: F
+}
+
+STRING 698
+// Abilities: A00L (Broly's Rage), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: F
+}
+
+STRING 699
+// Abilities: A00L (Broly's Rage), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: F
+}
+
+STRING 700
+// Abilities: A00L (Broly's Rage), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: F
+}
+
+STRING 701
+// Abilities: A00M (Energy Distortion Field), Researchhotkey (Hotkey - Learn (arhk))
+{
+F
+}
+
+STRING 702
+// Abilities: A00M (Energy Distortion Field), Hotkey (Hotkey - Normal (ahky))
+{
+F
+}
+
+STRING 703
+// Abilities: A00M (Energy Distortion Field), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: F
+}
+
+STRING 704
+// Abilities: A00M (Energy Distortion Field), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: F
+}
+
+STRING 705
+// Abilities: A00M (Energy Distortion Field), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: F
+}
+
+STRING 706
+// Abilities: A00M (Energy Distortion Field), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: F
+}
+
+STRING 707
+// Abilities: A00M (Energy Distortion Field), Ubertip (Tooltip - Normal - Extended (aub1))
+{
+Hotkey: F
+}
+
+STRING 708
+// Abilities: A00M (Energy Distortion Field), Unubertip (Tooltip - Turn Off - Extended (auu1))
+{
+Hotkey: F
+}
+
+STRING 709
+// Abilities: A00M (Energy Distortion Field), Unubertip (Tooltip - Turn Off - Extended (auu1))
+{
+Hotkey: F
+}
+
+STRING 710
+// Abilities: A00M (Energy Distortion Field), Unubertip (Tooltip - Turn Off - Extended (auu1))
+{
+Hotkey: F
+}
+
+STRING 711
+// Abilities: A00M (Energy Distortion Field), Unubertip (Tooltip - Turn Off - Extended (auu1))
+{
+Hotkey: F
+}
+
+STRING 712
+// Abilities: A00M (Energy Distortion Field), Unubertip (Tooltip - Turn Off - Extended (auu1))
+{
+Hotkey: F
+}
+
+STRING 714
+// Abilities: A00H (Final Flash), Tip (Tooltip - Normal (atp1))
+{
+Vegeta's Signature Energy Attack.
+}
+
+STRING 715
+// Abilities: A00H (Final Flash), Tip (Tooltip - Normal (atp1))
+{
+Vegeta's Signature Energy Attack.
+}
+
+STRING 716
+// Abilities: A00H (Final Flash), Tip (Tooltip - Normal (atp1))
+{
+Vegeta's Signature Energy Attack.
+}
+
+STRING 717
+// Abilities: A00H (Final Flash), Tip (Tooltip - Normal (atp1))
+{
+Vegeta's Signature Energy Attack.
+}
+
+STRING 718
+// Abilities: A00H (Final Flash), Tip (Tooltip - Normal (atp1))
+{
+Vegeta's Signature Energy Attack.
+}
+
+STRING 719
+// Abilities: A00H (Final Flash), Tip (Tooltip - Normal (atp1))
+{
+Vegeta's Signature Energy Attack.
+}
+
+STRING 720
+// Abilities: A00H (Final Flash), Tip (Tooltip - Normal (atp1))
+{
+Vegeta's Signature Energy Attack.
+}
+
+STRING 721
+// Abilities: A00H (Final Flash), Tip (Tooltip - Normal (atp1))
+{
+Vegeta's Signature Energy Attack.
+}
+
+STRING 722
+// Abilities: A00H (Final Flash), Tip (Tooltip - Normal (atp1))
+{
+Vegeta's Signature Energy Attack.
+}
+
+STRING 723
+// Abilities: A00H (Final Flash), Tip (Tooltip - Normal (atp1))
+{
+Vegeta's Signature Energy Attack.
+}
+
+STRING 724
+// Abilities: A00I (Scattershot), Researchtip (Tooltip - Learn (aret))
+{
+Learn how to summon 10 balls of energy to home in on your target(s).
+}
+
+STRING 725
+// Abilities: A00P (Tsfuru-jin Memories), Name (Name (anam))
+{
+Tsfuru-jin Memories
+}
+
+STRING 726
+// Abilities: A00P (Tsfuru-jin Memories), Researchtip (Tooltip - Learn (aret))
+{
+Remember your fallen Brethren of Old.
+}
+
+STRING 727
+// Abilities: A00P (Tsfuru-jin Memories), Researchubertip (Tooltip - Learn - Extended (arut))
+{
+Remembering how the Saiyans destroyed his people strengthens bebi's resolve.
+}
+
+STRING 735
+// Abilities: A00D (Babidi Wizardry), Tip (Tooltip - Normal (atp1))
+{
+Right click to toggle Autocast, or Hotkey: E
+}
+
+STRING 736
+// Abilities: A00D (Babidi Wizardry), Tip (Tooltip - Normal (atp1))
+{
+Right click to toggle Autocast, or Hotkey: E
+}
+
+STRING 737
+// Abilities: A00D (Babidi Wizardry), Tip (Tooltip - Normal (atp1))
+{
+Right click to toggle Autocast, or Hotkey: E
+}
+
+STRING 738
+// Abilities: A00D (Babidi Wizardry), Tip (Tooltip - Normal (atp1))
+{
+Right click to toggle Autocast, or Hotkey: E
+}
+
+STRING 739
+// Abilities: A00D (Babidi Wizardry), Tip (Tooltip - Normal (atp1))
+{
+Right click to toggle Autocast, or Hotkey: E
+}
+
+STRING 740
+// Abilities: A00D (Babidi Wizardry), Tip (Tooltip - Normal (atp1))
+{
+Right click to toggle Autocast, or Hotkey: E
+}
+
+STRING 741
+// Abilities: A00P (Tsfuru-jin Memories), Tip (Tooltip - Normal (atp1))
+{
+Right click for Autocast toggle, or Hotkey: F
+}
+
+STRING 742
+// Abilities: A00P (Tsfuru-jin Memories), Tip (Tooltip - Normal (atp1))
+{
+Right click for Autocast toggle, or Hotkey: F
+}
+
+STRING 743
+// Abilities: A00P (Tsfuru-jin Memories), Tip (Tooltip - Normal (atp1))
+{
+Right click for Autocast toggle, or Hotkey: F
+}
+
+STRING 744
+// Units: e000 (Gohan Scattershot Orb5), Name (Name (unam))
+{
+Gohan Scattershot Orb5
+}
+
+STRING 745
+// Units: e001 (Gohan Scattershot Orb), Name (Name (unam))
+{
+Gohan Scattershot Orb
+}
+
+STRING 746
+// Units: e002 (Gohan Scattershot Orb2), Name (Name (unam))
+{
+Gohan Scattershot Orb2
+}
+
+STRING 747
+// Units: e003 (Gohan Scattershot Orb3), Name (Name (unam))
+{
+Gohan Scattershot Orb3
+}
+
+STRING 748
+// Units: e004 (Gohan Scattershot Orb4), Name (Name (unam))
+{
+Gohan Scattershot Orb4
+}
+
+STRING 749
+// Units: H006 (Gohan), Propernames (Proper Names (upro))
+{
+Goku's Eldest Son
+}
+
+STRING 754
+// Abilities: A00D (Babidi Wizardry), EditorSuffix (Editor Suffix (ansf))
+{
+ (Autocast)
+}
+
+STRING 755
+// Abilities: A00G (Bebi Spawn Minion), Researchhotkey (Hotkey - Learn (arhk))
+{
+E
+}
+
+STRING 775
+// Units: H004 (Piccolo), Propernames (Proper Names (upro))
+{
+The Green Namekian
+}
+
+STRING 776
+// Buffs/Effects: B000 (Death Ball (Effect)), EditorName (Name (Editor Only) (fnam))
+{
+Death Ball (Effect)
+}
+
+STRING 777
+// Buffs/Effects: B001 (), Bufftip (Tooltip (ftip))
+{
+Death Ball
+}
+
+STRING 778
+// Buffs/Effects: B001 (), Buffubertip (Tooltip - Extended (fube))
+{
+This unit will take Damage over time due to the Death Ball affecting this area.
+}
+
+STRING 779
+// Abilities: A00B (Babida Magic), Researchubertip (Tooltip - Learn - Extended (arut))
+{
+Lasts longer on creeps than heros.
+}
+
+STRING 819
+// Buffs/Effects: B002 (Geti Star Influence), EditorName (Name (Editor Only) (fnam))
+{
+Geti Star Influence
+}
+
+STRING 820
+// Buffs/Effects: B002 (Geti Star Influence), Bufftip (Tooltip (ftip))
+{
+Geti Star Influence
+}
+
+STRING 821
+// Buffs/Effects: B002 (Geti Star Influence), Buffubertip (Tooltip - Extended (fube))
+{
+This unit's Armor has been increased due to the Geti Star's Influence.
+}
+
+STRING 822
+// Buffs/Effects: B003 (Tsfuru-jin Memories), EditorName (Name (Editor Only) (fnam))
+{
+Tsfuru-jin Memories
+}
+
+STRING 823
+// Buffs/Effects: B003 (Tsfuru-jin Memories), Bufftip (Tooltip (ftip))
+{
+Tsfuru-jin Memories
+}
+
+STRING 824
+// Buffs/Effects: B003 (Tsfuru-jin Memories), Buffubertip (Tooltip - Extended (fube))
+{
+Bebi takes less damage and slows opposing attackers during the duration Tsfuru-jin Memories.
+}
+
+STRING 825
+// Buffs/Effects: B004 (Babidi's Magic), EditorName (Name (Editor Only) (fnam))
+{
+Babidi's Magic
+}
+
+STRING 826
+// Buffs/Effects: B004 (Babidi's Magic), Bufftip (Tooltip (ftip))
+{
+Babidi's Magic
+}
+
+STRING 827
+// Buffs/Effects: B004 (Babidi's Magic), Buffubertip (Tooltip - Extended (fube))
+{
+This unit has been rendered helpless due to Babidi's evil Magics.
+}
+
+STRING 828
+// Units: n00D (Ghost), Name (Name (unam))
+{
+Ghost
+}
+
+STRING 829
+// Units: n00E (Escaped Dino), Name (Name (unam))
+{
+Escaped Dino
+}
+
+STRING 850
+// Doodads: DObk (Street Lamp), Name (Name (dnam))
+{
+Street Lamp
+}
+
+STRING 852
+// Doodads: LSwl (Street Lamp), Name (Name (dnam))
+{
+Street Lamp
+}
+
+STRING 853
+// Doodads: VSvb (Destroyed Building), Name (Name (dnam))
+{
+Destroyed Building
+}
+
+STRING 854
+// Doodads: LSeb (Old Tree), Name (Name (dnam))
+{
+Old Tree
+}
+
+STRING 855
+// Doodads: YS10 (Destroyed Tower), Name (Name (dnam))
+{
+Destroyed Tower
+}
+
+STRING 856
+// Doodads: YS11 (House Destroyed), Name (Name (dnam))
+{
+House Destroyed
+}
+
+STRING 857
+// Doodads: YS09 (Bridge), Name (Name (dnam))
+{
+Bridge
+}
+
+STRING 858
+// Doodads: YS05 (Street Lamp Destroyed), Name (Name (dnam))
+{
+Street Lamp Destroyed
+}
+
+STRING 859
+// Doodads: YS03 (3 Buildings), Name (Name (dnam))
+{
+3 Buildings
+}
+
+STRING 861
+// Doodads: YS00 (BillBoard), Name (Name (dnam))
+{
+BillBoard
+}
+
+STRING 862
+// Doodads: YS02 (Sphere Building), Name (Name (dnam))
+{
+Sphere Building
+}
+
+STRING 864
+// Doodads: ZPru (Palm Tree), Name (Name (dnam))
+{
+Palm Tree
+}
+
+STRING 865
+// Doodads: YS01 (Blue Building), Name (Name (dnam))
+{
+Blue Building
+}
+
+STRING 866
+// Doodads: APbs (Image Wall), Name (Name (dnam))
+{
+Image Wall
+}
+
+STRING 867
+// Doodads: CPbs (Sphere Tower), Name (Name (dnam))
+{
+Sphere Tower
+}
+
+STRING 869
+// Doodads: ZPsh (Tree), Name (Name (dnam))
+{
+Tree
+}
+
+STRING 872
+// Doodads: YS08 (Namek Building), Name (Name (dnam))
+{
+Namek Building
+}
+
+STRING 873
+// Doodads: BPca (Namek Tree), Name (Name (dnam))
+{
+Namek Tree
+}
+
+STRING 875
+// Units: h008 (Buu Cookie), Name (Name (unam))
+{
+Buu Cookie
+}
+
+STRING 876
+// Items: I003 (Buu Cookie), Name (Name (unam))
+{
+Buu Cookie
+}
+
+STRING 877
+// Items: I003 (Buu Cookie), Description (Description (ides))
+{
+A cookie!
+}
+
+STRING 878
+// Units: H00B (Temp Buu), Name (Name (unam))
+{
+Temp Buu
+}
+
+STRING 879
+// Units: H00B (Temp Buu), Propernames (Proper Names (upro))
+{
+Temp Buu
+}
+
+STRING 880
+// Units: H00C (Temp Evil Buu), Name (Name (unam))
+{
+Temp Evil Buu
+}
+
+STRING 881
+// Units: H00D (Temp Super Buu), Name (Name (unam))
+{
+Temp Super Buu
+}
+
+STRING 882
+// Units: H00E (Temp Kid Buu), Name (Name (unam))
+{
+Temp Kid Buu
+}
+
+STRING 884
+// Units: u00A (Mini Buu), Name (Name (unam))
+{
+Mini Buu
+}
+
+STRING 887
+// Units: O000 (Super 13), Name (Name (unam))
+{
+Super 13
+}
+
+STRING 888
+// Doodads: YS07 (Tsufu Building), Name (Name (dnam))
+{
+Tsufu Building
+}
+
+STRING 889
+// Doodads: APct (Lookout), Name (Name (dnam))
+{
+Lookout
+}
+
+STRING 890
+// Doodads: ZRsp (Lookout), Name (Name (dnam))
+{
+Lookout
+}
+
+STRING 903
+// Units: h00F (King Kai House), Name (Name (unam))
+{
+King Kai House
+}
+
+STRING 904
+// Units: n00G (King Yama Helper (Heaven)), Name (Name (unam))
+{
+King Yama Helper (Heaven)
+}
+
+STRING 905
+// Units: n00H (King Yama Helper (Hell)), Name (Name (unam))
+{
+King Yama Helper (Hell)
+}
+
+STRING 906
+// Units: n00I (King Yama Helper (Neutral)), Name (Name (unam))
+{
+King Yama Helper (Neutral)
+}
+
+STRING 907
+// Units: n00J (King Kai`s Car), Name (Name (unam))
+{
+King Kai`s Car
+}
+
+STRING 908
+// Units: n00K (Grand Kai`s Car), Name (Name (unam))
+{
+Grand Kai`s Car
+}
+
+STRING 909
+// Destructibles: NTbd (King Kais House), Name (Name (bnam))
+{
+King Kais House
+}
+
+STRING 910
+// Doodads: OOst (HTBC SandGlass), Name (Name (dnam))
+{
+HTBC SandGlass
+}
+
+STRING 911
+// Doodads: CPct (Hell Spikes), Name (Name (dnam))
+{
+Hell Spikes
+}
+
+STRING 912
+// Doodads: ZPms (Heaven Cloud), Name (Name (dnam))
+{
+Heaven Cloud
+}
+
+STRING 913
+// Doodads: COob (LookoutTowers), Name (Name (dnam))
+{
+LookoutTowers
+}
+
+STRING 914
+// Doodads: NObo (Hell Trees), Name (Name (dnam))
+{
+Hell Trees
+}
+
+STRING 916
+// Doodads: ZZgr (Swamp), Name (Name (dnam))
+{
+Swamp
+}
+
+STRING 917
+// Doodads: LOtr (Hell Fruit Tree), Name (Name (dnam))
+{
+Hell Fruit Tree
+}
+
+STRING 918
+// Doodads: YPbs (Hell Horn), Name (Name (dnam))
+{
+Hell Horn
+}
+
+STRING 919
+// Doodads: LOgr (Spire), Name (Name (dnam))
+{
+Spire
+}
+
+STRING 920
+// Doodads: XOcs (Yamas Tower), Name (Name (dnam))
+{
+Yamas Tower
+}
+
+STRING 921
+// Doodads: KOdr (Yamas Entry), Name (Name (dnam))
+{
+Yamas Entry
+}
+
+STRING 922
+// Doodads: YOr1 (Cloud Heaven), Name (Name (dnam))
+{
+Cloud Heaven
+}
+
+STRING 923
+// Doodads: LPlp (Cloud Cokul), Name (Name (dnam))
+{
+Cloud Cokul
+}
+
+STRING 924
+// Items: I004 (Fruit of HFIL), Name (Name (unam))
+{
+Fruit of HFIL
+}
+
+STRING 925
+// Items: I004 (Fruit of HFIL), Ubertip (Tooltip - Extended (utub))
+{
+A fruit that fell off the tree in HFIL
+}
+
+STRING 926
+// Units: n00L (Tournament Attendant), Name (Name (unam))
+{
+Tournament Attendant
+}
+
+STRING 927
+// Items: I005 (Tournament Registration Forms), Name (Name (unam))
+{
+Tournament Registration Forms
+}
+
+STRING 928
+// Items: I005 (Tournament Registration Forms), Tip (Tooltip - Basic (utip))
+{
+Receive the Registration forms for the next tournament.  Make sure you want to participate, there's no turning back!
+}
+
+STRING 929
+// Items: I005 (Tournament Registration Forms), Ubertip (Tooltip - Extended (utub))
+{
+These forms contain all information pertaining to you as a figthter.
+}
+
