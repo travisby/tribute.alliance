@@ -1,0 +1,5 @@
+This is a notice to everyone-
+
+I wouldn't suggest opening the blps-- they are image files, that aren't recognized by github as them, so they'll show you a lot of binary.  This is also true for may of the war3* files.
+
+You are best to place them inside the MPQ, and use WE to edit them.  
