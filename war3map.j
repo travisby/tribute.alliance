@@ -1,32 +1,3 @@
-// 
-//
-// DBZ-Tribute Alliance
-//
-// Copyright (C) 2009 xXxXshadowXxXx	<tobeappended>
-// Copyright (C) 2009 Matrixboy 	<travisby@gmail.com>
-// Copyright (C) 2009 Wivot		<tobeappended>
-// Copyright (C) 2009 pwned-orchunter	<tobeappended>
-// Copyright (C) 2009 The_Forsaken	<tobeappended>
-// Copyright (C) 2009 Orgrim		<tobeappended>
-// 
-// This file is part of DBZ-Tribute Alliance.
-//
-//    DBZ-Tribute Alliance is free software: you can redistribute it and/or modify
-//    it under the terms of the GNU General Public License as published by
-//    the Free Software Foundation, either version 3 of the License, or
-//    (at your option) any later version.
-//
-//    DBZ-Tribute Alliance is distributed in the hope that it will be useful,
-//    but WITHOUT ANY WARRANTY; without even the implied warranty of
-//    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-//    GNU General Public License for more details.
-//
-//    You should have received a copy of the GNU General Public License
-//    along with DBZ-Tribute Alliance.  If not, see <http://www.gnu.org/licenses/>.
-//
-//
-
-
 globals
 //globals from TimerUtils:
         constant integer TimerUtils___OFFSET     = 0x100000
@@ -129,14 +100,51 @@ trigger l__library_init
 integer array s__TimerUtils___data
 trigger array st___prototype6
 
+
+
+//JASSHelper struct globals:
+
 endglobals
+
+
+// 
+//
+// DBZ-Tribute Alliance
+//
+// Copyright (C) 2009 xXxXshadowXxXx	<tobeappended>
+// Copyright (C) 2009 Matrixboy 	<travisby@gmail.com>
+// Copyright (C) 2009 Wivot		<tobeappended>
+// Copyright (C) 2009 pwned-orchunter	<tobeappended>
+// Copyright (C) 2009 The_Forsaken	<tobeappended>
+// Copyright (C) 2009 Orgrim		<tobeappended>
+// 
+// This file is part of DBZ-Tribute Alliance.
+//
+//    DBZ-Tribute Alliance is free software: you can redistribute it and/or modify
+//    it under the terms of the GNU General Public License as published by
+//    the Free Software Foundation, either version 3 of the License, or
+//    (at your option) any later version.
+//
+//    DBZ-Tribute Alliance is distributed in the hope that it will be useful,
+//    but WITHOUT ANY WARRANTY; without even the implied warranty of
+//    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+//    GNU General Public License for more details.
+//
+//    You should have received a copy of the GNU General Public License
+//    along with DBZ-Tribute Alliance.  If not, see <http://www.gnu.org/licenses/>.
+//
+//
+
+
 function sc___prototype6_execute takes integer i returns nothing
 
     call TriggerExecute(st___prototype6[i])
+
 endfunction
 function sc___prototype6_evaluate takes integer i returns nothing
 
     call TriggerEvaluate(st___prototype6[i])
+
 
 endfunction
 
@@ -196,7 +204,7 @@ endfunction
          if ( TimerUtils___H2I(t) - TimerUtils___OFFSET < 0 ) then
              call BJDebugMsg("SetTimerData: Wrong handle id, only use SetTimerData on timers created by NewTimer")
          endif
-        set s__TimerUtils___data[TimerUtils___H2I(t) - TimerUtils___OFFSET]= value
+        set s__TimerUtils___data[TimerUtils___H2I(t) - TimerUtils___OFFSET]=value
     endfunction
 
     function GetTimerData takes timer t returns integer
@@ -273,6 +281,7 @@ endfunction
         endloop
 
         set TimerUtils___tN = i
+
     endfunction
 
 
@@ -309,7 +318,7 @@ endfunction
         set name = null
     endfunction
     function Funcs_remove takes nothing returns boolean
-        call sc___prototype6_execute(1)
+        call TriggerExecute(st___prototype6[(1)]) // INLINED!!
         return true
     endfunction
    
@@ -339,7 +348,8 @@ endfunction
 //library Funcs ends
 //library tournament:
     function tournament___start takes nothing returns nothing
-        local group participants= CreateGroup()
+        local group l__participants= CreateGroup()
+       // call 
        // call 
     endfunction
     
@@ -397,6 +407,7 @@ function CreateBuildingsForPlayer0 takes nothing returns nothing
     local real life
 
     set u = CreateUnit(p , 'h007' , 14912.0 , 8960.0 , 270.000)
+
 endfunction
 
 //===========================================================================
@@ -408,6 +419,7 @@ function CreateUnitsForPlayer0 takes nothing returns nothing
     local real life
 
     set u = CreateUnit(p , 'H001' , 14979.4 , 8608.7 , 72.996)
+
 endfunction
 
 //===========================================================================
@@ -419,6 +431,7 @@ function CreateUnitsForPlayer1 takes nothing returns nothing
     local real life
 
     set u = CreateUnit(p , 'H000' , 13906.9 , - 11850.3 , 310.121)
+
 endfunction
 
 //===========================================================================
@@ -430,6 +443,7 @@ function CreateUnitsForPlayer2 takes nothing returns nothing
     local real life
 
     set u = CreateUnit(p , 'H006' , - 3135.5 , - 15574.6 , 241.509)
+
 endfunction
 
 //===========================================================================
@@ -442,6 +456,7 @@ function CreateUnitsForPlayer3 takes nothing returns nothing
 
     set u = CreateUnit(p , 'H003' , - 12101.9 , - 14990.2 , 140.311)
     set u = CreateUnit(p , 'H002' , - 12145.9 , - 15101.0 , 34.839)
+
 endfunction
 
 //===========================================================================
@@ -455,6 +470,7 @@ function CreateUnitsForPlayer4 takes nothing returns nothing
     set u = CreateUnit(p , 'U006' , 13348.6 , - 1953.5 , 20.578)
     set u = CreateUnit(p , 'U007' , 13501.4 , - 1924.6 , 326.502)
     set u = CreateUnit(p , 'U005' , 13435.6 , - 2110.3 , 348.145)
+
 endfunction
 
 //===========================================================================
@@ -466,6 +482,7 @@ function CreateUnitsForPlayer5 takes nothing returns nothing
     local real life
 
     set u = CreateUnit(p , 'H005' , - 588.0 , 15064.7 , 298.947)
+
 endfunction
 
 //===========================================================================
@@ -477,6 +494,7 @@ function CreateUnitsForPlayer6 takes nothing returns nothing
     local real life
 
     set u = CreateUnit(p , 'H004' , - 8234.3 , - 15095.8 , 294.377)
+
 endfunction
 
 //===========================================================================
@@ -488,6 +506,7 @@ function CreateBuildingsForPlayer7 takes nothing returns nothing
     local real life
 
     set u = CreateUnit(p , 'n00C' , 5120.0 , 14464.0 , 270.000)
+
 endfunction
 
 //===========================================================================
@@ -499,6 +518,7 @@ function CreateUnitsForPlayer7 takes nothing returns nothing
     local real life
 
     set u = CreateUnit(p , 'U004' , 4703.9 , 14522.0 , 285.115)
+
 endfunction
 
 //===========================================================================
@@ -510,6 +530,7 @@ function CreateBuildingsForPlayer8 takes nothing returns nothing
     local real life
 
     set u = CreateUnit(p , 'ndmg' , 7808.0 , 9280.0 , 270.000)
+
 endfunction
 
 //===========================================================================
@@ -521,6 +542,7 @@ function CreateUnitsForPlayer8 takes nothing returns nothing
     local real life
 
     set u = CreateUnit(p , 'U003' , 7659.5 , 8908.0 , 215.405)
+
 endfunction
 
 //===========================================================================
@@ -532,6 +554,7 @@ function CreateBuildingsForPlayer9 takes nothing returns nothing
     local real life
 
     set u = CreateUnit(p , 'nfrm' , 128.0 , 10048.0 , 270.000)
+
 endfunction
 
 //===========================================================================
@@ -543,6 +566,7 @@ function CreateUnitsForPlayer9 takes nothing returns nothing
     local real life
 
     set u = CreateUnit(p , 'U000' , - 134.4 , 9896.5 , 292.926)
+
 endfunction
 
 //===========================================================================
@@ -554,6 +578,7 @@ function CreateUnitsForPlayer10 takes nothing returns nothing
     local real life
 
     set u = CreateUnit(p , 'U001' , - 14288.7 , 6641.7 , 254.396)
+
 endfunction
 
 //===========================================================================
@@ -566,6 +591,7 @@ function CreateBuildingsForPlayer11 takes nothing returns nothing
 
     set u = CreateUnit(p , 'u008' , 13088.0 , - 1632.0 , 270.000)
     set u = CreateUnit(p , 'u009' , - 14624.0 , 10912.0 , 270.000)
+
 endfunction
 
 //===========================================================================
@@ -577,6 +603,7 @@ function CreateUnitsForPlayer11 takes nothing returns nothing
     local real life
 
     set u = CreateUnit(p , 'U002' , - 14349.1 , 10654.8 , 309.079)
+
 endfunction
 
 //===========================================================================
@@ -588,6 +615,7 @@ function CreateNeutralHostile takes nothing returns nothing
     local real life
 
     set u = CreateUnit(p , 'N00B' , - 8975.6 , 14931.9 , 260.870)
+
 endfunction
 
 //===========================================================================
@@ -623,6 +651,7 @@ function CreateNeutralPassiveBuildings takes nothing returns nothing
     set u = CreateUnit(p , 'ncop' , - 13824.0 , 14976.0 , 270.000)
     set u = CreateUnit(p , 'ncop' , - 8640.0 , 12864.0 , 270.000)
     set u = CreateUnit(p , 'ncop' , - 15232.0 , 14208.0 , 270.000)
+
 endfunction
 
 //===========================================================================
@@ -771,6 +800,7 @@ function CreateNeutralPassive takes nothing returns nothing
     set u = CreateUnit(p , 'nvlk' , 12434.9 , - 11849.9 , 239.894)
     set u = CreateUnit(p , 'nvlk' , 8856.6 , - 13046.0 , 13.689)
     set u = CreateUnit(p , 'hpea' , 3260.3 , 15199.8 , 346.902)
+
 endfunction
 
 //===========================================================================
@@ -895,6 +925,7 @@ function CreateRegions takes nothing returns nothing
     set gg_rct_Region_057 = Rect(3072.0 , 13088.0 , 3264.0 , 13312.0)
     set gg_rct_Region_066 = Rect(5440.0 , 14048.0 , 5664.0 , 14240.0)
     set gg_rct_Region_065 = Rect(5472.0 , 12608.0 , 5632.0 , 12736.0)
+
 endfunction
 
 //***************************************************************************
@@ -1024,6 +1055,7 @@ function InitCustomTriggers takes nothing returns nothing
     call InitTrig_Initialization()
     call InitTrig_game_text_commands()
     //Function not found: call InitTrig_TimerUtilsOld()
+    //Function not found: call InitTrig_Tournament()
 endfunction
 
 //===========================================================================
@@ -1135,6 +1167,8 @@ function InitCustomPlayerSlots takes nothing returns nothing
     call SetPlayerRaceSelectable(Player(11) , false)
     call SetPlayerController(Player(11) , MAP_CONTROL_USER)
 
+
+    // Player 0
 endfunction
 
 function InitCustomTeams takes nothing returns nothing
@@ -1294,6 +1328,7 @@ function InitCustomTeams takes nothing returns nothing
     call SetPlayerAllianceStateVisionBJ(Player(11) , Player(9) , true)
     call SetPlayerAllianceStateVisionBJ(Player(11) , Player(10) , true)
 
+    // Force: TRIGSTR_019
 endfunction
 
 function InitAllyPriorities takes nothing returns nothing
@@ -1341,6 +1376,7 @@ function InitAllyPriorities takes nothing returns nothing
     call SetStartLocPrioCount(11 , 2)
     call SetStartLocPrio(11 , 0 , 0 , MAP_LOC_PRIO_HIGH)
     call SetStartLocPrio(11 , 1 , 10 , MAP_LOC_PRIO_HIGH)
+
 endfunction
 
 //***************************************************************************
@@ -1361,12 +1397,14 @@ function main takes nothing returns nothing
     call CreateAllUnits()
     call InitBlizzard()
 
+
+
 call ExecuteFunc("jasshelper__initstructs95641062")
 call ExecuteFunc("TimerUtils___redInit")
 
     call InitGlobals()
     call InitCustomTriggers()
-    call RunInitializationTriggers()
+    call ConditionalTriggerExecute(gg_trg_Initialization) // INLINED!!
 
 endfunction
 
@@ -1417,14 +1455,20 @@ function sa___prototype6_Funcs___Enum takes nothing returns boolean
         set character = null
         set name = null
     return true
+
 endfunction
 
 //Functions for BigArrays:
 
 function jasshelper__initstructs95641062 takes nothing returns nothing
     set st___prototype6[1]=CreateTrigger()
-    call TriggerAddAction(st___prototype6[1],function sa___prototype6_Funcs___Enum)
-    call TriggerAddCondition(st___prototype6[1],Condition(function sa___prototype6_Funcs___Enum))
+    call TriggerAddAction(st___prototype6[1] , function sa___prototype6_Funcs___Enum)
+    call TriggerAddCondition(st___prototype6[1] , Condition(function sa___prototype6_Funcs___Enum))
 
 endfunction
+
+
+
+
+//Struct method generated initializers/callers:
 
